@@ -1,0 +1,14 @@
+.right .heading {
+  font-family: Times;
+  font-style: bold;
+  font-style: italic;
+  color: #f2f2f2; }
+
+.auth-box .right {
+  background-image: url("../../assets/img/planting.jpg"); }
+  .auth-box .right .overlay {
+    background: rgba(73, 160, 16, 0.7); }
+
+.content .btn-lg {
+  background: #55ba12;
+  border-color: #55ba12; }
